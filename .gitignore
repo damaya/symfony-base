@@ -1,0 +1,7 @@
+/app/cache/*
+var/cache/*
+/app/logs/*
+var/logs/*
+var/sessions/*
+!app/cache/.gitkeep
+!app/logs/.gitkeep
